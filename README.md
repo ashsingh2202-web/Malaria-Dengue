@@ -4,6 +4,7 @@ Affiliation: ICMR – Indian Council of Medical Research
 Timeline: May – July 2024  
 Tools: SPSS · QGIS · Epidemiologic Field Survey Methodology
 ---
+
 📌 Project Overview
 This project presents a spatial epidemiologic analysis of malaria and dengue transmission hotspots using large-scale field survey data collected across multiple study regions in India. The objective was to identify geographic risk factors, map disease burden at the village level, and generate evidence to support targeted vector control strategies and public health intervention planning.
 Over 100 field surveys were conducted to identify high-risk communities, with spatial analysis used to map disease distribution and model environmental predictors of transmission.
